@@ -1,2 +1,2 @@
 # Athena
-Project Athena is a first-person tactical action game where you play as Heavy, a towering shield-bearer protecting innocent civilians.
+Project Athena is a first-person tactical action game where you play as Heavy, a towering shield-bearer protecting innocent civilians. Armed with a deployable shield and firearms, you must withstand enemy fire from snipers, riflemen, pistols, and flying drones. Civilians gather behind your shield and move with you as a huddled unit. Heavy’s slow movement demands careful positioning and timing. Your goal is to safely escort all civilians to the evacuation point while holding the line.
